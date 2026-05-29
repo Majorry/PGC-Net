@@ -1,6 +1,4 @@
-# PGC-Net: Physics-Guided Convolutional Network for Physical Layer Authentication
-
-Physics-Guided Deep Representation Learning for Robust Physical Layer Authentication in UAV Networks.
+# PGC-Net
 
 ## Project Structure
 
